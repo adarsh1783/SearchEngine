@@ -27,7 +27,7 @@ optional arguments:
 
 ### Running on Cranfield Dataset
 ```bash
-$ python3 main.py -dataset ../../cranfield/ -out_folder output/ -segmenter punkt -tokenizer ptb -IRmodel gensim
+$ python3 main.py -dataset cranfield/ -out_folder output/ -segmenter punkt -tokenizer ptb -IRmodel gensim
 Precision, Recall and F-score @ 1 : 0.7066666666666667, 0.1215685933425052, 0.19895198255542085
 MAP, nDCG @ 1 : 0.7066666666666667, 0.7066666666666667
 Precision, Recall and F-score @ 2 : 0.6177777777777778, 0.20506008780912888, 0.2897749207457946
