@@ -248,7 +248,7 @@ if __name__ == "__main__":
 	parser.add_argument('-custom', action = "store_true", 
 						help = "Take custom query as input")
 	parser.add_argument('-IRmodel', default = "gensim", 
-						help = "module name for information retrieval")
+						help = "module name for information retrieval [naive|gensim]")
 	
 	# Parse the input arguments
 	args = parser.parse_args()
