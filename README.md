@@ -52,6 +52,7 @@ MAP, nDCG @ 10 : 0.6931820441756946, 0.7379135441817931
 
 
 ## Authors
-Adarsh Singh and Rishabh Thakur
+Adarsh Singh and Sri harsha
 
-* https://github.com/trrishabh/GPU-DBMS
+##### Link to Project
+* https://github.com/adarsh1783/SearchEngine
